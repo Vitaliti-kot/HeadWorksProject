@@ -1,0 +1,7 @@
+C:\Users\step7\OneDrive\Рабочий стол\XamarinHeadWorksProject\XamarinHeadWorksProject\XamarinHeadWorksProject.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\step7\OneDrive\Рабочий стол\XamarinHeadWorksProject\XamarinHeadWorksProject\XamarinHeadWorksProject.Android\obj\Debug\90\build.props
+C:\Users\step7\OneDrive\Рабочий стол\XamarinHeadWorksProject\XamarinHeadWorksProject\XamarinHeadWorksProject.Android\obj\Debug\90\adb.props
+C:\Users\step7\OneDrive\Рабочий стол\XamarinHeadWorksProject\XamarinHeadWorksProject\XamarinHeadWorksProject.Android\obj\Debug\90\XamarinHeadWorksProject.Android.csprojAssemblyReference.cache
+C:\Users\step7\OneDrive\Рабочий стол\XamarinHeadWorksProject\XamarinHeadWorksProject\XamarinHeadWorksProject.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\step7\OneDrive\Рабочий стол\XamarinHeadWorksProject\XamarinHeadWorksProject\XamarinHeadWorksProject.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\step7\OneDrive\Рабочий стол\XamarinHeadWorksProject\XamarinHeadWorksProject\XamarinHeadWorksProject.Android\obj\Debug\90\res.flag
